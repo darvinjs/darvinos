@@ -9,14 +9,11 @@
 
 > **Core idea:** Make everyday professional AI work run on the device a person already owns, through a browser workspace, using downloadable models suited to the task. Improve those models centrally using approved learning data, then deliver better versions back to the device.
 
-This document defines the intended product and business direction. Proposed capabilities, commercial approaches, and release stages are hypotheses to validate; they are not claims of functionality already delivered or market demand already proven. It remains a strategic plan rather than an engineering specification.
-
 ---
 
 ## Contents
 
 1. Executive summary
-2. Strategic intent and the change from the previous plan
 3. What DarvinOS is
 4. Vision, mission, and product principles
 5. The problem and the market gaps
@@ -62,26 +59,6 @@ DarvinOS should initially support repeatable, text-centered work for marketing, 
 The economic objective is to **reduce recurring centralized inference demand and the cost of completed work**. Central infrastructure remains necessary for identity, governance, model distribution, approved training, and selected connected services. The strategy succeeds only if local execution delivers useful quality and lower total operating cost after those expenses are included.
 
 The long-term ambition is a personal AI processing workspace for professional work: accessible through the browser, fitted to a person’s role, informed by their context, and improved through controlled enterprise learning.
-
-## 2. Strategic intent and the change from the previous plan
-
-The previous plan positioned DarvinOS primarily as a confidential document-review workspace for boutique legal, advisory, and diligence teams. It treated local AI, encrypted storage, and enterprise access controls as the means of delivering that workflow.
-
-The founder’s clarification changes the strategic center of the business. **The main problem is the mismatch between the processing a task needs and the centralized AI infrastructure used to perform it.** Confidential document review is one possible application of the idea. The larger opportunity spans many kinds of professional work.
-
-The revised direction makes five changes:
-
-| Strategic dimension | Previous emphasis | Revised emphasis |
-| --- | --- | --- |
-| Core customer problem | Confidential document review and controlled access | The recurring cost and dependence created by using centralized inference for work that can run locally |
-| Product identity | Secure document-review workspace | Browser-based personal AI processing workspace |
-| Role coverage | Legal and diligence reviewers | Marketing, business development, operations, finance, accounting, legal, and other professional functions |
-| Model lifecycle | Local model execution | Download, local use, contextual memory, approved feedback, central improvement, and controlled redistribution |
-| Expansion logic | Legal beachhead with possible broader modules | Shared processing foundation with role packs, introduced through a focused pilot |
-
-Several strengths from the original plan remain useful: browser access, local processing, a clear distinction between device work and central services, honest security boundaries, and evidence-based expansion. These become foundations for the broader strategy.
-
-The revised plan does not assume that every role launches at once. It separates the full product vision from the small set of tasks needed to prove the business.
 
 ## 3. What DarvinOS is
 
